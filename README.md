@@ -1,2 +1,1 @@
-# jenkinspipeline made suceess
 # jenkinspipeline
